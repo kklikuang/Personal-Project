@@ -1,0 +1,4 @@
+Verify the import 
+SELECT *
+FROM shopping_trends
+LIMIT 10;
