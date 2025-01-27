@@ -1,0 +1,2 @@
+-- View Column Names and Data Types
+DESCRIBE Shopping_trends;
