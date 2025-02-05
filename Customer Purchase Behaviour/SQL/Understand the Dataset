@@ -1,2 +1,7 @@
 -- View Column Names and Data Types
 DESCRIBE Shopping_trends;
+
+-- Count Rows in the Dataset
+SELECT COUNT(*) AS total_rows FROM Shopping_trends;
+
+-- 
